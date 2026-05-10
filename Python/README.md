@@ -53,15 +53,6 @@ I am currently building real-world projects in:
 
 ---
 
-# 🎯 Career Interests
-
-- Python Developer
-- Data Analyst
-- Business Analyst
-- Financial Analyst
-- Automation Engineer
-
----
 
 # 🔗 Connect With Me
 
