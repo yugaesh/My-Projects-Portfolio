@@ -57,4 +57,4 @@ I am currently building real-world projects in:
 # 🔗 Connect With Me
 
 - GitHub: https://github.com/yugaesh
-- LinkedIn: Add Your LinkedIn Link
+- LinkedIn: www.linkedin.com/in/yugaesh-s-7795792b5
