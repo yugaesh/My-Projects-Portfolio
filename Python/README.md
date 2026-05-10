@@ -1,6 +1,6 @@
 # My-Projects-Portfolio
 Portfolio showcasing all my unique industry oriented projects.
-# 🚀 Gowtham's Project Portfolio
+# 🚀 Yugaesh's Project Portfolio
 
 Welcome to my professional project portfolio repository.
 
