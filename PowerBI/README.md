@@ -1,48 +1,54 @@
-🚀 Yugaesh's Power BI Project Portfolio
+# My-Projects-Portfolio  
+Portfolio showcasing all my unique industry oriented projects.
 
-Welcome to my professional Power BI project portfolio repository.
 
-I am currently building real-world dashboards in:
+🚀 Yugaesh's Project Portfolio  
+Welcome to my professional project portfolio repository.
 
-Business Intelligence
-Financial Analytics
-HR Analytics
-Sales Analytics
-Supply Chain Analytics
-Data Visualization
+I am currently building real-world projects in:
+
+- Python Development  
+- Finance & Business Analytics  
+- Data Analytics  
+- Automation  
+- Business Intelligence (Power BI)  
+- Visualization  
+
 
 📊 Power BI Projects
-No	Project Name	Domain	Description	GitHub Link
-01	Customer Segmentation & Retention Analytics Dashboard	Customer Analytics / CRM	Power BI dashboard for analyzing customer behavior, segmentation, retention trends, and churn insights.	https://github.com/yugaesh/customer-segmentation-retention-powerbi
 
-02	Financial KPI Monitoring & Profitability Dashboard	Finance / Business Analytics	Financial dashboard to track revenue, profit, expenses, and budget vs actual performance.	https://github.com/yugaesh/financial-kpi-monitoring-powerbi
+| No | Project Name | Domain | Description | GitHub Link |
+|----|-------------|--------|-------------|--------------|
+| 01 | Customer Segmentation & Retention Analytics Dashboard | Business Intelligence / Marketing Analytics | Power BI dashboard to analyze customer behavior, segmentation, retention patterns, and revenue contribution for business decision-making. | https://github.com/yugaesh/customer-segmentation-retention-analytics-powerbi |
+| 02 | Financial KPI Monitoring & Profitability Dashboard | Finance / Business Analytics | Financial performance dashboard to track revenue, profit, cost, and budget vs actual analysis across regions and categories. | https://github.com/yugaesh/financial-kpi-monitoring-powerbi |
+| 03 | HR Workforce Insights & Attrition Analysis Dashboard | HR Analytics / People Analytics | HR analytics dashboard to analyze employee attrition, satisfaction, workload, and workforce distribution for retention insights. | https://github.com/yugaesh/hr-workforce-attrition-dashboard |
+| 04 | Sales Performance & Revenue Growth Dashboard | Sales Analytics / Business Intelligence | Sales performance dashboard tracking revenue, growth trends, target vs actual performance, and regional sales insights. | https://github.com/yugaesh/sales-performance-revenue-dashboard |
+| 05 | Supply Chain Efficiency & Inventory Optimization Dashboard | Operations / Supply Chain Analytics | Power BI dashboard to monitor inventory levels, supplier performance, demand forecasting, and supply chain efficiency. | https://github.com/yugaesh/supply-chain-inventory-dashboard |
 
-03	HR Workforce Insights & Attrition Analysis Dashboard	HR Analytics	HR dashboard analyzing employee attrition, satisfaction, and workforce distribution.	https://github.com/yugaesh/hr-attrition-powerbi
-
-04	Sales Performance & Revenue Growth Dashboard	Sales Analytics	Sales performance dashboard tracking revenue growth, targets, and regional performance.	https://github.com/yugaesh/sales-revenue-powerbi
-
-05	Supply Chain & Inventory Optimization Dashboard	Operations / Supply Chain	Inventory and supply chain analytics dashboard for optimizing stock and supplier performance.	https://github.com/yugaesh/supply-chain-powerbi
 
 💼 Skills Demonstrated
-Business Intelligence with Power BI
-KPI Dashboard Development
-Data Modeling
-DAX Calculations
-Power Query Data Cleaning
-Financial & Business Analysis
-HR & Sales Analytics
-Supply Chain Optimization
-Data Visualization & Storytelling
 
-🛠️ Tools Used
-Microsoft Power BI
-Power Query
-DAX
-Excel
-Data Modeling
+- Business Intelligence Reporting  
+- Power BI Dashboard Development  
+- Data Cleaning & Transformation (Power Query)  
+- DAX Calculations & KPI Creation  
+- Financial & HR Analytics  
+- Sales & Supply Chain Analytics  
+- Data Visualization & Storytelling  
+- Business Insights Generation  
 
-Git & GitHub
+
+🛠️ Technologies Used
+
+- Microsoft Power BI  
+- Power Query  
+- DAX (Data Analysis Expressions)  
+- Excel  
+- Data Modeling  
+- Business Intelligence Concepts  
+
+
 🔗 Connect With Me
 
-GitHub: https://github.com/yugaesh
-LinkedIn: www.linkedin.com/in/yugaesh-s-7795792b5
+- GitHub: https://github.com/yugaesh  
+- LinkedIn: www.linkedin.com/in/yugaesh-s-7795792b5  
