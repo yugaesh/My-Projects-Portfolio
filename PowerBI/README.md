@@ -19,11 +19,11 @@ I am currently building real-world projects in:
 
 | No | Project Name | Domain | Description | GitHub Link |
 |----|-------------|--------|-------------|--------------|
-| 01 | Customer Segmentation & Retention Analytics Dashboard | Business Intelligence / Marketing Analytics | Power BI dashboard to analyze customer behavior, segmentation, retention patterns, and revenue contribution for business decision-making. | https://github.com/yugaesh/customer-segmentation-retention-analytics-powerbi |
-| 02 | Financial KPI Monitoring & Profitability Dashboard | Finance / Business Analytics | Financial performance dashboard to track revenue, profit, cost, and budget vs actual analysis across regions and categories. | https://github.com/yugaesh/financial-kpi-monitoring-powerbi |
-| 03 | HR Workforce Insights & Attrition Analysis Dashboard | HR Analytics / People Analytics | HR analytics dashboard to analyze employee attrition, satisfaction, workload, and workforce distribution for retention insights. | https://github.com/yugaesh/hr-workforce-attrition-dashboard |
-| 04 | Sales Performance & Revenue Growth Dashboard | Sales Analytics / Business Intelligence | Sales performance dashboard tracking revenue, growth trends, target vs actual performance, and regional sales insights. | https://github.com/yugaesh/sales-performance-revenue-dashboard |
-| 05 | Supply Chain Efficiency & Inventory Optimization Dashboard | Operations / Supply Chain Analytics | Power BI dashboard to monitor inventory levels, supplier performance, demand forecasting, and supply chain efficiency. | https://github.com/yugaesh/supply-chain-inventory-dashboard |
+| 01 | Customer Segmentation & Retention Analytics Dashboard | Business Intelligence / Marketing Analytics | Power BI dashboard to analyze customer behavior, segmentation, retention patterns, and revenue contribution for business decision-making. | https://github.com/yugaesh/customer-segmentation-retention-powerbi |
+| 02 | Financial KPI Monitoring & Profitability Dashboard | Finance / Business Analytics | Financial performance dashboard to track revenue, profit, cost, and budget vs actual analysis across regions and categories. | https://github.com/yugaesh/financial-kpi-dashboard-powerbi |
+| 03 | HR Workforce Insights & Attrition Analysis Dashboard | HR Analytics / People Analytics | HR analytics dashboard to analyze employee attrition, satisfaction, workload, and workforce distribution for retention insights. | https://github.com/yugaesh/HR-Workforce-Attrition-Dashboard |
+| 04 | Sales Performance & Revenue Growth Dashboard | Sales Analytics / Business Intelligence | Sales performance dashboard tracking revenue, growth trends, target vs actual performance, and regional sales insights. | https://github.com/yugaesh/sales-performance-revenue-dashboard-powerbi |
+| 05 | Supply Chain Efficiency & Inventory Optimization Dashboard | Operations / Supply Chain Analytics | Power BI dashboard to monitor inventory levels, supplier performance, demand forecasting, and supply chain efficiency. | https://github.com/yugaesh/supply-chain-efficiency-dashboard-powerbi |
 
 
 💼 Skills Demonstrated
